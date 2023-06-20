@@ -1,3 +1,1 @@
 # HugoQuickStart some changes
-
-s
